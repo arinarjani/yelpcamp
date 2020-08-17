@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+.delete_form {
+    display: inline;
+}
+
+/**/ 
+/* make footer stick to bottom of page: https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b */
+    /* html, body{ height:100%; margin:0; }
+    header{ height:50px; background:lightcyan; }
+    footer{ height:50px; background:PapayaWhip; }
+
+    /* Trick */
+    /* body{ 
+    display:flex; 
+    flex-direction:column; 
+    }
+
+    footer{
+    margin-top:auto; 
+    }  */
+/**/
+.footer {
+    width: 100%;
+    color: #fff;
+    margin: auto 0 0 0 !important;
+}
+
+.footer a {
+    color: #FFEE58;
+}
