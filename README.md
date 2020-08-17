@@ -10,7 +10,7 @@
 `npm install`
 
 ### Before running
-* create a `.env` file with `PORT` and `MONGODB_URI` variables
+create a `.env` file with `PORT` and `MONGODB_URI` variables
 
 ### Running the app
 `npm start`
