@@ -2,7 +2,7 @@
 
 ### How to get onto local machine 
 
-`git clone https://github.com/arinarjani/yelpcamp yelpcamp`
+`git clone https://github.com/arinarjani/yelpcamp yelpcamp` then
 `cd yelpcamp`
 
 ### How to add packages
